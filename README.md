@@ -5,4 +5,4 @@ Unsupervised Learning
 
 2. Uniform Manifold Approximation and Projection (UMAP): Digits dataset (from Scikit-learn)
 
-3. K-Nearest Neighbors (KNN): Diabetes dataset
+3. K-Nearest Neighbors (KNN): [Classification] Diabetes dataset, [Regression] Iris dataset
