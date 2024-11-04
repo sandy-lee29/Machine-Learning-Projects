@@ -16,7 +16,7 @@ Supervised Learning : Classification & Regression
 
 3. Linear Regression : California Housing dataset (from Scikit-learn)
 
-Dealing with Non-linearity
+Decision Trees : Dealing with Non-linearity
 
 1. Decision Tree Classifier: Boston Housing Price dataset (from Github)
 
