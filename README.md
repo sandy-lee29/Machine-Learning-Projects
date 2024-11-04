@@ -8,7 +8,7 @@ Unsupervised Learning : Dimensionality Reduction & Clustering
 
 Supervised Learning : Classification & Regression
 
-1. K-Nearest Neighbors (KNN): [Classification] Diabetes dataset, Penguins dataset (from Seaborn)   [Regression] Iris dataset
+1. K-Nearest Neighbors (KNN): [Classification] Diabetes dataset (from Seaborn)   [Regression] Iris dataset
 
 2. Evaluating Classification Models with Confusion Matrix :
    - KNN Classification : Breast Cancer datset (from Scikit-learn),
