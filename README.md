@@ -15,3 +15,9 @@ Supervised Learning : Classification & Regression
    - Logistic Regression : Penguins dataset (from Seaborn)
 
 3. Linear Regression : California Housing dataset (from Scikit-learn)
+
+Dealing with Non-linearity
+
+1. Decision Tree Classifier: Boston Housing Price dataset (from Github)
+
+2. Gradient-Boosted Decision Tree Regressor: Taxis dataset (from Seaborn) 
