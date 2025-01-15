@@ -1,6 +1,6 @@
 # Machine_Learning_Projects_
 
-Unsupervised Learning : Dimensionality Reduction & Clustering 
+## <h1 style="color:yellow;">Unsupervised Learning : Dimensionality Reduction & Clustering</h1>
 
 1. Principal Component Analysis (PCA) and K-Means Clustering: Iris dataset (from Seaborn), Wine dataset (from Scikit-learn)
 
@@ -20,4 +20,6 @@ Decision Trees : Dealing with Non-linearity
 
 1. Decision Tree Classifier: Boston Housing Price dataset (from Github)
 
-2. Gradient-Boosted Decision Tree Regressor: Taxis dataset (from Seaborn) 
+2. Gradient-Boosted Decision Tree Regressor: Taxis dataset (from Seaborn)
+
+   
