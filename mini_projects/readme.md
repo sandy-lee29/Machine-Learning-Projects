@@ -1,4 +1,4 @@
-This repository contains various data science and machine learning projects and aims to serve as an educational example of data science workflows applied to real-world problems
+This repository showcases data science and machine learning projects as educational examples of workflows applied to real-world problems.
 
 Below are the included projects:
 
