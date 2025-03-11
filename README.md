@@ -1,4 +1,4 @@
-# Machine_Learning_Projects_
+# Machine Learning Projects
 
 ### Unsupervised Learning : Dimensionality Reduction & Clustering 
 
